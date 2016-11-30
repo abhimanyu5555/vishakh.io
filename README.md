@@ -1,1 +1,1 @@
-site developed for vishakh duggal
+This is Vesion2 for vishakh.io
